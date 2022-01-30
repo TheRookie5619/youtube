@@ -1,4 +1,5 @@
 # From: https://www.youtube.com/watch?v=rxp0UIgOxU0
+# Very simple discord bot (discord.Client() method) Working 2022
 
 import discord
 
