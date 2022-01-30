@@ -1,3 +1,5 @@
+# From: https://www.youtube.com/watch?v=rxp0UIgOxU0
+
 import discord
 
 token = 'Ur_token'
